@@ -1,4 +1,4 @@
-package com.uw.calculator.pojo;
+package com.naren.calculator.pojo;
 
 public class Result {
 

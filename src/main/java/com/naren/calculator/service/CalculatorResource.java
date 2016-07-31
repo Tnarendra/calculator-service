@@ -1,4 +1,4 @@
-package com.uw.calculator.service;
+package com.naren.calculator.service;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Component;
 
-import com.uw.calculator.pojo.Result;
+import com.naren.calculator.pojo.Result;
 
 @Component
 @Path("calculator")
